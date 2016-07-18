@@ -12,5 +12,10 @@
 
 最终的成品请参考 http://jasperproject.github.io/ 的视频。xuebao 支持中文，会讲中文笑话，中文绕口令，播放音乐，等等，这部分请自行脑补。
 
+### 更多功能
+开源软件＋树莓派使我们对 xuebao 有很多想象空间，看看这个 [Mycroft 视频](https://www.indiegogo.com/projects/mycroft-open-source-artificial-intelligence)，我们完全可以用 xuebao 做到一样对功能。
+
+没有做不到，只有想不到。^_^
+
 ### 问题讨论
 如果遇到什么问题，请到 http://niutool.com 讨论。

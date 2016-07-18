@@ -1,0 +1,10 @@
+[Plugin]
+Name = pygame-player
+Version = 1.0.0
+License = MIT
+URL = http://founchain.com/
+Description = a mp3 player uses pygame
+
+[Author]
+Name = Guangyuan Lu
+URL = http://founchain.com/

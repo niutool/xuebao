@@ -1,0 +1,10 @@
+[Plugin]
+Name = story
+Version = 1.0.0
+License = MIT
+URL = http://founchain.com/
+Description = Tells you a story
+
+[Author]
+Name = Guangyuan LU
+URL = http://founchain.com/

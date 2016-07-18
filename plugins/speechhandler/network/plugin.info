@@ -1,0 +1,10 @@
+[Plugin]
+Name = network
+Version = 1.0.0
+License = MIT
+URL = http://www.founchain.com/
+Description = Tells system ip
+
+[Author]
+Name = Guangyuan LU
+URL = http://www.founchain.com/

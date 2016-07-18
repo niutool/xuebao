@@ -1,0 +1,1 @@
+pocketsphinx_continuous -hmm /usr/local/share/pocketsphinx/model/hmm/zh/tdt_sc_8k -lm xuebao/client/data/model/sphinx.lm -dict xuebao/client/data/model/sphinx.dic -adcdev plughw:1,0

@@ -1,0 +1,24 @@
+[Settings]
+name = 清晏
+
+[Words]
+ok = 好的。
+welcome = %(name)s，我们一起玩吧！
+		%(name)s，我们又在一起了！
+		你好，我们一起玩吧！
+		一觉醒来，我又充满了能量。
+		多么美好的一天啊。
+exception = 对不起，哪里出问题了，请稍候再试。
+		天啊，发生了一些我不能承受的事。
+		我崩溃了。
+pardon = 你说什么？
+		请再说一遍。
+		我没听清楚。
+nojoke = 没有找到笑话。
+		我现在心情不好。
+notonguetwister = 没有找到绕口令。
+				我舌头太笨了，说不了绕口令。
+				好难好难，我还没学会绕口令。
+emptyfile = 没有mp3文件
+emptyfolder = 没有这个文件夹
+noplaying = 没有播放音乐

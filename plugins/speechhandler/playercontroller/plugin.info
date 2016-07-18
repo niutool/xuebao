@@ -1,0 +1,10 @@
+[Plugin]
+Name = player-controller
+Version = 1.0.0
+License = MIT
+URL = http://founchain.com/
+Description = control the mp3 player
+
+[Author]
+Name = Guangyuan LU
+URL = http://founchain.com/
